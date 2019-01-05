@@ -1,2 +1,2 @@
 # Calculator
-Basic Addition/Subtraction Calculator
+Basic Arithmetic Calculator
